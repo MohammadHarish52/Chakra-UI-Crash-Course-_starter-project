@@ -8,6 +8,10 @@ export default function Dashboard() {
     mt: "10px",
     textAlign: "center",
     color: "white",
+    ":hover": {
+      color: "black",
+      bg: "gray",
+    },
   };
 
   return (
